@@ -15907,6 +15907,7 @@ ygovou	赢
 ygovu	鹰
 ygovua	鹰
 ygovuu	膺
+ygou    罃
 ygu	迎
 ygua	颖
 yguaoa	迎
