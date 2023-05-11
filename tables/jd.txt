@@ -38576,8 +38576,8 @@ enmc	神妙
 enmco	神庙
 enmd	深谋
 enmdo	是那么的
-enme	甚么
-enmei	什么
+enme	什么
+enmei	甚么
 enmg	申明
 enmgo	神明
 enmh	深埋

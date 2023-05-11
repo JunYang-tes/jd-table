@@ -1,7 +1,5 @@
-1. 安装cmake
-2. cmake .
-3. make
-4. cp ./tables/jd.main.dict /usr/share/libime
-5. cp ./tables/jd.conf /usr/share/fcitx5/inputmethod
+libime_tableedict ./tables/jd.txt ./tables/jd.main.dict
+cp ./tables/jd.main.dict /usr/share/libime
+cp ./tables/jd.conf /usr/share/fcitx5/inputmethod
 
 
