@@ -72849,8 +72849,8 @@ keyfv	可研
 keyfvo	可言
 keyh	客曰
 keyk	可疑
+keykv	可以
 keyko	刻意
-keykv	可依
 keykva	可以
 keykvi	可依
 keyl	可与
