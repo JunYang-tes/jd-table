@@ -1108,6 +1108,7 @@ cwov	吋
 cwovio	吋
 cwv	村
 cwva	邨
+cwvvau	膥
 cwvaai	邨
 cwvi	寸
 cwvioo	寸
