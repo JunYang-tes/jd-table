@@ -636,6 +636,7 @@ bsa	巴
 bsaiva	巴
 bsau	妭
 bsauvu	妭
+bsav 㞎
 bsav	灞
 bsavoa	灞
 bsi	拔
@@ -22381,7 +22382,8 @@ bsbjv	百思不得其解
 bsbk	芭比
 bsbm	八遍
 bsbs	爸爸
-bsbsa	巴巴
+bsbsa 㞎㞎
+bsbsaa	巴巴
 bsbsi	把把
 bsbsii	拔拔
 bsbso	粑粑
