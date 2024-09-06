@@ -6226,6 +6226,7 @@ jkavvo	堲
 jkavvv	彐
 jki	技
 jkia	畸
+jkiaau 㚻
 jkiai	觊
 jkiaia	觊
 jkiao	嵴
