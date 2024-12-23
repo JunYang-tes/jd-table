@@ -16299,8 +16299,8 @@ ylivv	龉
 ylivvi	龉
 ylivvv	余
 ylo	语
-yloa	裕
-yloaa	哟
+yloa	哟
+yloaa	裕
 yloaav	哟
 yloai	谕
 yloaiv	褕
